@@ -1,0 +1,11 @@
+[
+  {
+    "action": "connect",
+    "endpoint": [
+      {
+        "type": "sip",
+        "uri": "sip:3001@54.178.146.207"
+      }
+    ]
+  }
+]
